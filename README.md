@@ -5,7 +5,7 @@ CSS for discord that merges the titlebar to save space and also fixes the misali
 Tested with Vesktop v1.5.8, Fedora 42 & Gnome 48 on 3.Sep.2025.
 
 Simply apply the css to your discord client.
-In Vencord you can paste the code into QuickCSS or paste the style.css file into .config/vesktop/themes and enable it within themes.
+In Vesktop you can paste the code into QuickCSS or paste the style.css file into .config/vesktop/themes and enable it within themes. Also make sure to enable Discord Titlebar under Vesktop Settings.
 
 ### Limitations
 - No window decorations in settings
