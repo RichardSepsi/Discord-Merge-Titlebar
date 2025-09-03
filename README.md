@@ -8,7 +8,7 @@ Simply apply the css to your discord client.
 In Vesktop you can paste the code into QuickCSS or paste the style.css file into .config/vesktop/themes and enable it within themes. Also make sure to enable Discord Titlebar under Vesktop Settings.
 
 ### Limitations
-- No window decorations in settings
+- No window decorations in settings.
 - Dragging the window by grabbing the titlebar doesn't work when you are in Discord Shop.
 
 <img width="1960" height="1250" alt="Preview" src="https://github.com/user-attachments/assets/d98991e0-20eb-4e59-bb18-a147c8d53aaf" />
