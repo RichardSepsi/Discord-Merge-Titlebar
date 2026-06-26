@@ -42,8 +42,8 @@
 
 .trailing_c38106 {
   gap: var(--spacing) !important;
-  margin: 9px 2px;
-  margin-top: 13px;
+  margin: 9px 3px;
+  margin-top: 12px;
 }
 .trailing_c38106 [aria-label="Update Ready!"],
 .trailing_c38106 [href="https://support.discord.com"] {
@@ -52,6 +52,9 @@
 
 .trailing_c38106 .clickable_c99c29{
   margin-right: 11px;
+}
+.clickable__81391 {
+  margin-right: 16px;
 }
 
 .winButton_c38106 {
@@ -193,6 +196,54 @@
   margin-right: 108px;
 }
 
+
+.toolbar__9293f .container__44ee9{
+  margin-right: 10px;
+}
+.navBarActions__131a1{
+  margin-right: -24px;
+}
+
+.navBarContent__131a1 .navBarSectionContentContainer__131a1 {
+  app-region: none !important;
+}
+.navBarContent__131a1 .navBarActions__131a1 {
+  app-region: none !important;
+}
+.container__354ec .tabs__354ec .tab__354ec {
+  app-region: none !important;
+}
+.container__26669 .tabs__26669 .tabWrapper__26669 {
+  app-region: none !important;
+}
+.backdrop__8a7fc {
+  app-region: drag !important;
+}
+.tabs__65d41 .tab__65d41 {
+  app-region: none !important;
+}
+.header__551b0 {
+  app-region: drag !important;
+}
+
+.container__65d41{
+  flex: 1;
+}
+.searchBar__1ac1c.search__1ac1c {
+  app-region: none !important;
+}
+.headerBar__8a7fc.overlay__8a7fc{
+  padding-right: 128px;
+}
+.searchIcon__1ac1c.search__1ac1c {
+  app-region: none !important;
+}
+.searchBar__1ac1c.search__1ac1c.searchFloating__1ac1c {
+  app-region: none !important;
+  margin-right: 114px;
+}
+
+
 /*  Dragable titlebar  */
 
 .children__9293f {
@@ -208,5 +259,3 @@
 .title_f75fb0{
   padding-left: 0;
 }
-
-
